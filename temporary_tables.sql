@@ -76,4 +76,4 @@ SELECT
 	AVG(z_salary) AS z_salary
 FROM emps
 GROUP BY department
-ORDER BY z_salary;
+ORDER BY z_salary; 
